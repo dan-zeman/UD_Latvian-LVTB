@@ -96,8 +96,9 @@
     <feat name="Voice" value="Pass" upos="VERB">4440</feat><!-- redzams, zināms, paredzēts, saistīts, Protams, minēto, ziņots, minētā, plānots, rakstīts -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="39">
-    <dep name="acl">3457</dep>
+  <deps unique="40">
+    <dep name="acl">1312</dep>
+    <dep name="acl:relcl">2145</dep>
     <dep name="advcl">3726</dep>
     <dep name="advmod">10817</dep>
     <dep name="amod">11391</dep>

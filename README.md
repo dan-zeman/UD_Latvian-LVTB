@@ -42,6 +42,9 @@ Test:   1823 sentences
 
 # Changelog
 
+2020-01-11 **IWPT Shared Task Data**
+  * Enhanced graph: Transformed relations between relative clauses and modified nouns.
+
 2019-10-27 v2.5
   * Added more data, improved consistency.
   * Major revision in what Latvian model considers secondary predicative components ('obl', 'appos', 'xcomp' etc. in UD terms).
